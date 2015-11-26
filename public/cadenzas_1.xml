@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<library>
+
+  <book>
+    <title><![CDATA[Cadenzas for Carl Stamitz Viola Concerto No.1 in D, op.1]]></title>
+
+    <ismn>M 9002001-1-2</ismn>
+    <authors>
+      <author>Mark Knight</author>
+    </authors>
+    <pageid>0.0</pageid>
+    <subtitle><![CDATA[Constructed from the text as published by Amadeus (BP 750).]]></subtitle>
+    <keyname>Cadenza Stamitz</keyname>
+    <image>images/images/mk1.jpg</image>
+    <price>9.95</price>
+  </book>
+
+  <book>
+    <title><![CDATA[Cadenzas for Hoffmeister Viola Concerto in D]]></title>
+    <ismn>M 9002001-2-9</ismn>
+    <authors>
+      <author>Mark Knight</author>
+    </authors>
+    <pageid>0.1</pageid>
+    <subtitle><![CDATA[Constructed from the composer's material as published by Kunzelmann (No. GM 701).]]></subtitle>
+    <keyname>Cadenza Hoffmeister</keyname>
+    <image>images/images/mk2.jpg</image>
+    <price>9.95</price>
+  </book>
+
+  <book>
+    <title><![CDATA[Cadenzas for Mozart Violin Concertos No.1 in B flat K207 & No.2 in D, K211]]></title>
+    <ismn>M 9002001-0-5</ismn>
+    <authors>
+      <author>Mark Knight</author>
+    </authors>
+    <pageid>0.2</pageid>
+    <subtitle><![CDATA[Constructed from Mozart's text as printed in the "Urtext of the New Mozart Edition" published by B&auml;renreiter (BA4864a).]]></subtitle>
+    <keyname>Cadenza Mozart</keyname>
+    <image>images/images/mk3.jpg</image>
+    <price>12.95</price>
+  </book>
+
+  <book>
+    <title><![CDATA[Cadenzas for Haydn 'Cello Concerto in C Hob. VIIb:1]]></title>
+    <ismn>M 9002001-3-6</ismn>
+    <authors>
+      <author>Mark Knight</author>
+    </authors>
+    <pageid>0.3</pageid>
+    <subtitle><![CDATA[Composed for his daughter Josephine Knight, (currently Principal 'Cello of the English Chamber Orchestra), the Haydn cadenzas are now published and available for purchase.]]></subtitle>
+    <keyname>Cadenza Haydn Cello</keyname>
+    <image>images/images/mk4.jpg</image>
+    <price>7.95</price>
+  </book>
+
+  <book>
+    <title><![CDATA[Concerto in C major for Viola, Haydn Hob.VIIb:1]]></title>
+    <ismn>M 9002001-5-0</ismn>
+    <authors>
+      <author>Mark Knight</author>
+    </authors>
+    <pageid>0.4</pageid>
+    <subtitle><![CDATA[Mark Knight's transcription of Haydn's 'Cello Concerto in C for viola, complete with cadenzas.]]></subtitle>
+    <keyname>Cadenza Haydn Viola</keyname>
+    <image>images/images/mk5.jpg</image>
+    <price>15.95</price>
+  </book>
+
+ 
+
+</library>
+

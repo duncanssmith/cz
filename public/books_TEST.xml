@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<library>
+  <book>
+    <title><![CDATA[Terrible Journey - a thriller]]></title>
+    <isbn>M 9002001-1-2</isbn>
+    <authors>
+      <author>Duncan Smith</author>
+      <author>Vincent Price</author>
+    </authors>
+    <price>9.95</price>
+  </book>
+  <book>
+    <title><![CDATA[Journey Undersea ]]></title>
+    <isbn>M 9002008-3-8</isbn>
+    <authors>
+      <author>Jacques Cousteau</author>
+    </authors>
+    <price>14.99</price>
+  </book>
+  <book>
+    <title><![CDATA[Journey to the Centre of the Earth]]></title>
+    <isbn>M 9005031-2-9</isbn>
+    <authors>
+      <author>Jules Verne</author>
+    </authors>
+    <price>4.75</price>
+  </book>
+  <book>
+    <title><![CDATA[Journey with a Donkey]]></title>
+    <isbn>M 9406004-2-1</isbn>
+    <authors>
+      <author>Robert Louis Stephenson</author>
+    </authors>
+    <price>8.95</price>
+  </book>
+</library>
+

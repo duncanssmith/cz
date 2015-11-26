@@ -1,0 +1,261 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<library>
+
+  <book>
+    <title><![CDATA[Cadenzas for Carl Stamitz Viola Concerto No.1 in D, op.1]]></title>
+    <ismn>979-0-9002001-1-2</ismn>
+    <reference>SA101</reference>
+    <authors>
+      <author>Mark Knight</author>
+    </authors>
+    <categories>
+      <category>all</category>
+      <category>cadenzas</category>
+    </categories>
+    <pageid>0.0</pageid>
+    <subtitle><![CDATA[Constructed from the text as published by Amadeus (BP 750).]]></subtitle>
+    <keyname>Cadenza Stamitz</keyname>
+    <images>
+      <image>images/images/mk1.jpg</image>
+      <imagecenter>images/mknight_stamitz_image_240_290.jpg</imagecenter>
+      <imagescore>images/cadenzas_stamitz_score_page_1.gif</imagescore>
+    </images>
+    <illustration>Lynn Harvey</illustration>
+    <price>10.95</price>
+  </book>
+
+  <book>
+    <title><![CDATA[Cadenzas for Hoffmeister Viola Concerto in D]]></title>
+    <ismn>979-0-9002001-2-9</ismn>
+    <reference>SA102</reference>
+    <authors>
+      <author>Mark Knight</author>
+    </authors>
+    <categories>
+      <category>all</category>
+      <category>cadenzas</category>
+    </categories>
+    <pageid>0.1</pageid>
+    <subtitle><![CDATA[Constructed from the composer's material as published by Kunzelmann (No. GM 701).]]></subtitle>
+    <keyname>Cadenza Hoffmeister</keyname>
+    <images>
+      <image>images/images/mk2.jpg</image>
+      <imagecenter>images/mknight_hoffmeister_image_240_290.jpg</imagecenter>
+      <imagescore>images/cadenzas_hoffmeister_score_page_1.gif</imagescore>
+    </images>
+    <illustration>Susan Bernhard-Brown</illustration>
+    <price>10.95</price>
+  </book>
+  <book>
+    <title><![CDATA[Cadenzas for Mozart Violin Concertos No.1 in B flat K207 & No.2 in D, K211]]></title>
+    <ismn>979-0-9002001-0-5</ismn>
+    <reference>SA100</reference>
+    <authors>
+      <author>Mark Knight</author>
+    </authors>
+    <categories>
+      <category>all</category>
+      <category>cadenzas</category>
+    </categories>
+    <pageid>0.2</pageid>
+    <subtitle><![CDATA[Constructed from Mozart's text as printed in the "Urtext of the New Mozart Edition" published by B&auml;renreiter (BA4864a).]]></subtitle>
+    <keyname>Cadenza Mozart</keyname>
+    <images>
+      <image>images/images/mk3.jpg</image>
+      <imagecenter>images/mknight_mozart_image_240_290.jpg</imagecenter>
+      <imagescore>images/cadenzas_mozart_score_page_1.gif</imagescore>
+    </images>
+    <illustration>Jill Biddick</illustration>
+    <price>13.95</price>
+  </book>
+
+  <book>
+    <title><![CDATA[Cadenzas for Haydn Cello Concerto in C Hob. VIIb:1]]></title>
+    <ismn>979-0-9002001-3-6</ismn>
+    <reference>SA103</reference>
+    <authors>
+      <author>Mark Knight</author>
+    </authors>
+    <categories>
+      <category>all</category>
+      <category>cadenzas</category>
+    </categories>
+    <pageid>0.3</pageid>
+    <subtitle><![CDATA[Composed for his daughter Josephine Knight, (currently Principal Cello of the English Chamber Orchestra), the Haydn cadenzas are now published and available for purchase.]]></subtitle>
+    <keyname>Cadenza Haydn Cello</keyname>
+    <images>
+      <imagecenter>images/mknight_haydn_image_240_290_c.jpg</imagecenter>
+      <image>images/images/mk4.jpg</image>
+      <imagescore>images/images/Haydn_Cello_sample.jpg</imagescore>
+    <illustration>Jackie Griffin</illustration>
+    </images>
+    <price>7.95</price>
+  </book>
+
+  <book>
+    <title><![CDATA[Concerto in C major for Viola, Haydn Hob.VIIb:1]]></title>
+    <ismn>979-0-9002001-5-0</ismn>
+    <reference>SA105</reference>
+    <authors>
+      <author>Mark Knight</author>
+    </authors>
+    <categories>
+      <category>all</category>
+      <category>cadenzas</category>
+    </categories>
+    <pageid>0.4</pageid>
+    <subtitle><![CDATA[Mark Knight's transcription of Haydn's Cello Concerto in C for viola, complete with cadenzas.]]></subtitle>
+    <keyname>Cadenza Haydn Viola</keyname>
+    <images>
+      <imagecenter>images/mknight_haydn_image_240_290.jpg</imagecenter>
+      <image>images/images/mk5.jpg</image>
+      <imagescore>images/images/Haydn_Viola_sample.jpg</imagescore>
+    </images>
+    <illustration>Jackie Griffin</illustration>
+    <price>15.95</price>
+  </book>
+
+  <book>
+    <title><![CDATA[Carl Flesch Plus Scales for Viola Volume I]]></title>
+    <ismn>979-0-9002001-7-4</ismn>
+    <reference>SA107</reference>
+    <authors>
+      <author>Mark Knight</author>
+    </authors>
+    <categories>
+      <category>all</category>
+      <category>scales</category>
+    </categories>
+    <pageid>1.0</pageid>
+    <subtitle><![CDATA[Double-Stop 3rds and 6ths in all keys. Collated and Fingered by Mark Knight]]></subtitle>
+    <keyname>Scales Viola Vol.1</keyname>
+    <images>
+      <image>images/images/mk6.jpg</image>
+      <imagecenter>images/20080515/Viola.jpg</imagecenter>
+      <imagescore>images/images/scales_viola_sample.jpg</imagescore>
+    </images>
+    <illustration>MK</illustration>
+    <price>14.95</price>
+  </book>
+
+  <book>
+    <title><![CDATA[Carl Flesch Plus Scales for Viola Volume II]]></title>
+    <ismn>979-0-9002001-9-8</ismn>
+    <reference>SA109</reference>
+    <authors>
+      <author>Mark Knight</author>
+    </authors>
+    <categories>
+      <category>all</category>
+      <category>scales</category>
+    </categories>
+    <pageid>1.1</pageid>
+    <subtitle><![CDATA[Double-Stop 3rds, 6ths and fingered 8ves in all keys for examination presentation. Collated and Fingered by Mark Knight]]></subtitle>
+    <keyname>Scales Viola Vol.2</keyname>
+    <images>
+      <image>images/images/mk8.jpg</image>
+      <imagecenter>images/20080515/Viola2.jpg</imagecenter>
+      <imagescore>images/images/scales_viola2_sample.jpg</imagescore>
+    </images>
+    <illustration>MK</illustration>
+    <price>14.95</price>
+  </book>
+
+  <book>
+    <title><![CDATA[Carl Flesch Plus Scales for Viola Volume III]]></title>
+    <ismn>979-0-9002093-1-3</ismn>
+    <reference>SA111</reference>
+    <authors>
+      <author>Mark Knight</author>
+    </authors>
+    <categories>
+      <category>all</category>
+      <category>scales</category>
+    </categories>
+    <pageid>1.2</pageid>
+    <subtitle><![CDATA[ 3 and 4 Octave Single-Stop Scales and Arpeggios Collated and Fingered by Mark Knight]]></subtitle>
+    <keyname>Scales Viola Vol.3</keyname>
+    <images>
+      <image>images/images/mk11.jpg</image>
+      <imagecenter>images/20080515/Viola3.jpg</imagecenter>
+      <imagescore>images/images/scales_viola3_sample.jpg</imagescore>
+    </images>
+    <illustration>MK</illustration>
+    <price>14.95</price>
+  </book>
+
+
+  <book>
+    <title><![CDATA[Carl Flesch Plus Scales for Violin Volume I]]></title>
+    <ismn>979-0-9002001-6-7</ismn>
+    <reference>SA106</reference>
+    <authors>
+      <author>Mark Knight</author>
+    </authors>
+    <categories>
+      <category>all</category>
+      <category>scales</category>
+    </categories>
+    <pageid>1.3</pageid>
+    <subtitle><![CDATA[Double-Stop 3rds and 6ths in all keys. Collated and Fingered by Mark Knight]]></subtitle>
+    <keyname>Scales Violin Vol.1</keyname>
+    <images>
+      <image>images/images/mk7.jpg</image>
+      <imagecenter>images/20080515/Violin.jpg</imagecenter>
+      <imagescore>images/images/scales_violin_sample.jpg</imagescore>
+    </images>
+    <illustration>MK</illustration>
+    <price>14.95</price>
+  </book>
+
+  <book>
+    <title><![CDATA[Carl Flesch Plus Scales for Violin Volume II]]></title>
+    <ismn>979-0-9002001-8-1</ismn>
+    <reference>SA108</reference>
+    <authors>
+      <author>Mark Knight</author>
+    </authors>
+    <categories>
+      <category>all</category>
+      <category>scales</category>
+    </categories>
+    <pageid>1.4</pageid>
+    <subtitle><![CDATA[Double-Stop 3rds, 6ths and fingered 8ves in all keys for examination presentation. Collated and Fingered by Mark Knight]]></subtitle>
+    <keyname>Scales Violin Vol.2</keyname>
+    <images>
+      <image>images/images/mk9.jpg</image>
+      <imagecenter>images/20080515/Violin2.jpg</imagecenter>
+      <imagescore>images/images/scales_violin2_sample.jpg</imagescore>
+    </images>
+    <illustration>MK</illustration>
+    <price>14.95</price>
+  </book>
+
+
+  <book>
+    <title><![CDATA[Carl Flesch Plus Scales for Violin Volume III]]></title>
+    <ismn>979-0-9002093-0-6</ismn>
+    <reference>SA110</reference>
+    <authors>
+      <author>Mark Knight</author>
+    </authors>
+    <categories>
+      <category>all</category>
+      <category>scales</category>
+    </categories>
+    <pageid>1.5</pageid>
+    <subtitle><![CDATA[ 3 and 4 Octave Single-Stop Scales and Arpeggios Collated and Fingered by Mark Knight]]></subtitle>
+    <keyname>Scales Violin Vol.3</keyname>
+    <images>
+      <image>images/images/mk10.jpg</image>
+      <imagecenter>images/20080515/Violin3.jpg</imagecenter>
+      <imagescore>images/images/scales_violin3_sample.jpg</imagescore>
+    </images>
+    <illustration>MK</illustration>
+    <price>14.95</price>
+  </book>
+
+
+
+</library>
+

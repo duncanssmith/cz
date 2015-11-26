@@ -1,0 +1,50 @@
+body{
+	font-family: verdana,tahoma,arial, sans-serif;
+	font-size: 11pt;
+	color: #3a3a17;
+	background: #808000;
+}
+
+#header {
+	background: #808000;
+	border-bottom: solid 1px gray;
+}
+
+#content {
+	line-height:1.5em;
+	border:solid 0px blue;
+	background: #fff;
+	padding:10px;
+	padding-left:80px;
+	float: left;
+	width: 720px;
+}
+
+#content a img {
+  border:3px;
+  border-color:red;
+}
+
+#popup
+{
+	margin-left:20px;
+	margin-top:10px;
+	padding:20px;
+	background: #ccc;
+}
+
+#sidebar {
+	border:solid 0px silver;
+	margin-left:64%;
+	margin-top:10px;
+	padding:20px;
+	background: #808000;
+}
+
+#footer {
+	clear: left;
+	border-top:solid 0px gray;
+	padding: 8px;
+	background: #808000;
+}
+

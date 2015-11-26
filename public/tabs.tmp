@@ -1,0 +1,11 @@
+<?php
+#generated file tabs.tmp 2010-01-29 12:58:48 - do not edit
+
+	$tabs=array(
+ 0=>'Cadenzas',
+ 1=>'Scales',
+ 2=>'Purchase',
+ 3=>'About',
+ 4=>'Contact'
+	);
+?>

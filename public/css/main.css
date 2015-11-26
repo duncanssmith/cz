@@ -1,0 +1,198 @@
+@import "layout.css";
+@import "typography.css";
+@import "tabs.css";
+
+#logo{
+	width:300px;
+	float:left;
+	border:1px solid red;
+}
+#login
+{
+	position:absolute;
+	top:20px;
+	left:580px;
+	width:300px;
+	float:right;
+	border:0px solid red;
+
+}
+
+div#debug
+{
+	position:relative;
+	border: solid 1px green;
+	margin:0px;
+	padding:0px;
+	color:red;
+	z-index:0;
+	width:400px;
+}
+
+label{
+	display:block;
+	width:18em;
+	float:left;
+  background-color:white;
+  color:#660;
+  font-family:verdana,sans-serif;
+  font-size:8pt;
+  font-weight:normal;
+  line-height:1em;
+	margin:2px;
+	border: solid 0px silver;
+	padding:1px;
+	text-align:left;
+}
+
+input{
+	display: block;
+	float: left;
+
+	margin:2px;
+	/* NB no border */
+	padding:2px;
+}
+input.submit{
+
+}
+
+input.hidden{
+	border:none;
+}
+
+input.txt{
+	border:solid 1px gray;
+	width:8em;
+	font-size:7pt;
+}
+input.submit{
+
+}
+
+input.hidden{
+	border:none;
+}
+
+#bottom {
+	position:absolute;
+	top:400px;
+	left:0px;
+	margin:0px;
+	border:solid 1px blue;
+	padding:1px;
+	height:80px; 
+	background:#fff;
+}
+#bottom div {
+	margin:0px;
+	border:solid 1px blue;
+	padding:1px;
+	float:left;
+}
+#flag {
+	position:absolute;
+	top:0px;
+	left:0px;
+	margin:0px;
+	border:solid 1px blue;
+	padding:1px;
+	height:220px; 
+	background:#fff;
+}
+
+#flag div {
+	float:left;
+}
+
+#flag div div {
+	float:right;
+}
+
+#main { 
+	border:solid 1px blue;
+	height:220px; 
+	padding:1px;
+	background:#fff;
+}
+
+#main div {
+	float:left;
+	border:solid 1px red;
+} 
+#main div div { 
+	border:solid 1px yellow;
+	width:185px; 
+	float:left;
+
+}
+#main div div div {
+	border:solid 1px green;
+	width:200px; 
+	float:right;
+}
+#main div div div div {	
+	border:solid 1px purple;
+	width:200px; 
+	float:right; 
+}
+table{
+  background-color:#ffffff;
+  margin:0px;
+  padding:10px;
+  border:solid 0px;
+}
+th{
+  border:solid 0px;
+  valign:top;
+  align:left;
+}
+td{
+  border:solid 0px;
+}
+
+table.book{
+  background-color:#808000;
+  padding:10px;
+  border:solid 0px silver;
+}
+
+a.popzoom{
+  border:0px;
+}
+div.PayPalPayNow{
+	border: solid 0px red;
+	padding: 0px;
+	margin: 0px;
+	width: 450px;
+	background: #fff;
+	font-family:verdana,sans-serif;
+}
+div.box1 
+{
+	position:absolute;
+	top:228px;
+	left:90px;
+	border: solid 1px red;
+	width: 450px;
+	background: #fff;
+	font-family:verdana,sans-serif;
+}
+div.leftColumn 
+{
+	margin:2px;
+	border:solid 1px silver;
+	padding: 0px;
+	width: 80px;
+	background: #aaaaaa;
+	font-family:verdana,sans-serif;
+}
+br{
+	clear:left;
+}
+hr{
+	color:#fce;
+	background-color:#da8;
+	height:1px;
+	border:none;	
+}

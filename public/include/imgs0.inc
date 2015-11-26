@@ -1,0 +1,9 @@
+<?php
+$images=array(
+  'mk1.jpg',
+  'mk2.jpg',
+  'mk3.jpg',
+  'mk4.jpg',
+  'mk5.jpg'
+);
+?>

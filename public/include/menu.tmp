@@ -1,0 +1,17 @@
+// generated file include/menu.tmp - 2010-01-29 12:58:48 - do not edit
+	Menu1=new Array("Cadenzas", "index.php?pageid=0","", 5,20,120)
+	Menu1_1=new Array("Stamitz Viola", "index.php?pageid=0.0","", 0,20,120)
+	Menu1_2=new Array("Hoffmeister", "index.php?pageid=0.1","", 0,20,120)
+	Menu1_3=new Array("Mozart", "index.php?pageid=0.2","", 0,20,120)
+	Menu1_4=new Array("Haydn Cello", "index.php?pageid=0.3","", 0,20,120)
+	Menu1_5=new Array("Haydn Viola", "index.php?pageid=0.4","", 0,20,120)
+	Menu2=new Array("Scales", "index.php?pageid=1","", 4,20,120)
+	Menu2_1=new Array("Viola Scales I", "index.php?pageid=1.0","", 0,20,120)
+	Menu2_2=new Array("Viola Scales II", "index.php?pageid=1.1","", 0,20,120)
+	Menu2_3=new Array("Violin Scales I", "index.php?pageid=1.2","", 0,20,120)
+	Menu2_4=new Array("Violin Scales II", "index.php?pageid=1.3","", 0,20,120)
+	Menu3=new Array("Purchase", "index.php?pageid=2","", 0,20,120)
+	Menu4=new Array("About", "index.php?pageid=3","", 0,20,120)
+	Menu5=new Array("Contact", "index.php?pageid=4","", 0,20,120)
+
+var NoOffFirstLineMenus=5
